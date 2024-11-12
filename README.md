@@ -16,7 +16,7 @@ This project involves the application of advanced MySQL techniques for data clea
 
 ---
 
-## Purpose of the Queries
+## Overview of Query Functions
 
 The queries in this project serve various functions to ensure data consistency, integrity, and insightful analysis. Below is a breakdown of the primary objectives:
 
